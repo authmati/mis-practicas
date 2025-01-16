@@ -39,3 +39,17 @@ function botoncitoAlerta() {
 // ========================================
 // Ejercicio 5: Función para sumar dos números y mostrar resultado en alerta
 // ========================================
+
+function sumando() {
+    let num1 = parseFloat(prompt("Ingresa el primer número:"));
+    let num2 = parseFloat(prompt("Ingresa el segundo número:"));
+
+    if (!isNaN(num1) && !isNaN(num2)) {
+
+        let resultado = num1 + num2;
+        alert(`El resultado de la suma es: ${resultado}`);
+
+    } else {
+        alert("Por favor, ingresa números válidos.");
+    }
+}
