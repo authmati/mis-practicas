@@ -73,8 +73,8 @@ if (numero > 0) {
 
 let contador = 1;
 while (contador <= 10) {
-    console.log(contador);
-    contador++;
+   console.log(contador);
+   contador++;
 }
 
 // ========================================
@@ -83,9 +83,9 @@ while (contador <= 10) {
 
 let nota = 4;
 if (nota >= 7) {
-    console.log("Aprobado!");
+   console.log("Aprobado!");
 } else {
-    console.log("Reprobado!");
+   console.log("Reprobado!");
 }
 
 // ========================================
@@ -101,7 +101,6 @@ console.log(aleatorio)
 
 let aleatoriodos = Math.floor(Math.random() * 10) + 1;
 console.log(aleatoriodos);
-
 
 // ========================================
 // Ejercicio 13: Número aleatorio entre 1 y 1000
