@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GitHub-Repositorio-blue?logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=gray" alt="JavaScript">
+  <img src="https://img.shields.io/badge/practicas_javascript-%23F7DF1E?style=for-the-badge&logo=github&label=github&labelColor=gray" alt="GitHub">
 </p>
 
 # Prácticas con JavaScript
