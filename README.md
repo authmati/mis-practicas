@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/practicas_javascript-%23F7DF1E?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
-  <img src="https://img.shields.io/badge/activo-black?style=for-the-badge&label=Estado&labelColor=%23F7DF1E" alt="GitHub">
+  <img src="https://img.shields.io/badge/estado-%23F7DF1E?style=for-the-badge&logoColor=white&label=activo&labelColor=%23242424" alt="Estado Activo">
 </p>
 
 # Prácticas con JavaScript
