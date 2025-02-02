@@ -1,12 +1,12 @@
-# 🌟 Mis Prácticas JS 🌟
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GitHub-Repositorio-blue?logo=github" alt="GitHub">
+</p>
 
-¡Bienvenido/a a mi repositorio de prácticas en JavaScript! 🎉 Aquí encontrarás ejercicios y desafíos realizados durante mi aprendizaje en el programa **ONE - Oracle Next Education**.
+# Prácticas con JavaScript
 
----
-
-## 📚 **Sobre este repositorio**
-Este proyecto incluye ejercicios secundarios que abarcan conceptos fundamentales y avanzados de JavaScript. Cada carpeta contiene:
-- 📝 Enunciado del ejercicio.
-- 🛠️ Mi solución al problema.
+¡Bienvenido/a a mi repositorio de prácticas con JavaScript! Aquí subo mis ejercicios y proyectos mientras aprendo y mejoro mis habilidades en JavaScript.
 
 ---
+
+¡Gracias por visitar! Happy coding! 💻✨
